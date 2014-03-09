@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offices>
+	<office id="1">
+		<id>1</id>
+		<name>First</name>
+		<city>София</city>
+		<address>бул. България 56</address>
+		<email>office@gmail.com</email>
+		<phone>0888 765 567</phone>
+		<workTime>
+			<monday>07:30 - 20:30</monday>
+			<tuesday>07:30 - 20:30</tuesday>
+			<wednesday>07:30 - 20:30</wednesday>
+			<thursday>07:30 - 20:30</thursday>
+			<friday>07:30 - 20:30</friday>
+			<saturday>Почивен ден</saturday>
+			<sunday>Почивен ден</sunday>
+		</workTime>
+		<map>width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=bg&amp;geocode=&amp;q=Sofia,+%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&amp;aq=0&amp;oq=Sofia,+%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&amp;sll=43.214505,27.908127&amp;sspn=0.007241,0.016512&amp;doflg=ptk&amp;ie=UTF8&amp;hq=&amp;hnear=%D0%A1%D0%BE%D1%84%D0%B8%D1%8F,+%D0%A1%D0%BE%D1%84%D0%B8%D1%8F-%D0%B3%D1%80%D0%B0%D0%B4,+%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&amp;ll=42.697839,23.32167&amp;spn=0.003651,0.008256&amp;t=m&amp;z=14&amp;iwloc=A&amp;output=embed"</map>
+	</office>
+	<office id="2">
+		<id>2</id>
+		<name>Second</name>
+		<city>Пловдив</city>
+		<address>бул.Мария Луиза 67</address>
+		<email>plovdiv@gmail.com</email>
+		<phone>0888 140 140</phone>
+		<workTime>
+			<monday>08:30 - 20:30</monday>
+			<tuesday>08:30 - 20:30</tuesday>
+			<wednesday>08:30 - 20:30</wednesday>
+			<thursday>08:30 - 20:30</thursday>
+			<friday>08:30 - 20:30</friday>
+			<saturday>Почивен ден</saturday>
+			<sunday>Почивен ден</sunday>
+		</workTime>
+		<map>width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=bg&amp;geocode=&amp;q=Plovdiv,+%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&amp;aq=0&amp;oq=plov,+%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&amp;sll=42.697383,23.322102&amp;sspn=0.003651,0.008256&amp;doflg=ptk&amp;ie=UTF8&amp;hq=&amp;hnear=%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2,+%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&amp;ll=42.135408,24.74529&amp;spn=0.007367,0.016512&amp;t=m&amp;z=14&amp;output=embed"</map>
+	</office>
+	<office id="3">
+		<id>3</id>
+		<name>Third</name>
+		<city>Варна</city>
+		<address>Варна, ул.Димитар Апостолов 96</address>
+		<email>varna@gmail.com</email>
+		<phone>0888 799 900</phone>
+		<workTime>
+			<monday>07:30 - 20:30</monday>
+			<tuesday>07:30 - 20:30</tuesday>
+			<wednesday>07:30 - 20:30</wednesday>
+			<thursday>07:30 - 20:30</thursday>
+			<friday>07:30 - 20:30</friday>
+			<saturday>Почивен ден</saturday>
+			<sunday>Почивен ден</sunday>
+		</workTime>
+		<map>width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=bg&amp;geocode=&amp;q=Varna,+%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&amp;aq=0&amp;oq=var,+%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&amp;sll=42.701314,23.329253&amp;sspn=0.007301,0.016512&amp;ie=UTF8&amp;hq=&amp;hnear=%D0%92%D0%B0%D1%80%D0%BD%D0%B0,+%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&amp;ll=43.204665,27.910542&amp;spn=0.007241,0.016512&amp;t=m&amp;z=14&amp;iwloc=lyrftr:m,4905203917435474688,43.215404,27.908964&amp;output=embed"</map>
+	</office>
+</offices>

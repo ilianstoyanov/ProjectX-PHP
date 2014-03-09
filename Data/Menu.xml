@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+	<menu role="All">
+		<display>Начало</display>
+		<link>Index.php</link>
+		<title>Начална страница</title>
+		<image>map-icon</image>
+	</menu>
+	<menu role="All">
+		<display>Каталог</display>
+		<link>Catalog.php</link>
+		<title>Всички филми</title>
+		<image>map-icon</image>
+	</menu>
+	<menu role="User">
+		<display>За нас</display>
+		<link>AboutUs.php</link>
+		<title>Контакт с нас</title>
+		<image>contact-icon</image>
+	</menu>
+	<menu role="User">
+		<display>Профил</display>
+		<link>Profile.php</link>
+		<title>Контакт с нас</title>
+		<image>contact-icon</image>
+	</menu>
+	<menu role="All">
+		<display>Конткат</display>
+		<link>Contacts.php</link>
+		<title>Контакт с нас</title>
+		<image>contact-icon</image>
+	</menu>
+	<menu role="Admin">
+		<display>Потребители</display>
+		<link>Users.php</link>
+		<title>Всички потребители</title>
+		<image>contact-icon</image>
+	</menu>
+</menus>
